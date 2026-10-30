@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Shadowhunt" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#54F1E2</item>
+        <item name="android:navigationBarColor">#070B13</item>
+        <item name="android:statusBarColor">#070B13</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
